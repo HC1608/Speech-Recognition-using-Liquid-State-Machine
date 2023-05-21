@@ -1,4 +1,4 @@
-##Check out mp4 file and docx file for more details
+Check out mp4 file and docx file for more details
 
 data.m generated the dataset stored in TI-dataset.mat
 
